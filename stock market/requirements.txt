@@ -1,0 +1,5 @@
+gnews
+youtube-search-python
+colorama
+httpx<0.28.0
+pillow
